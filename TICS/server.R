@@ -10,7 +10,7 @@ library(tree)
 library(ggplot2)
 library(readr)
 
-# Read in the Data
+# Read in the Data 
 library(readr)
 TICS <- read_csv("TICS.csv")
 reason <- c(4, 3, 3, 4, 2, 2, 2, 1, 1, 1, 3, 1)
